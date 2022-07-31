@@ -18,6 +18,9 @@ Python 3
 NumPy and pandas
 A terminal application
 
+### Files used
+[1]chicago.csv [2]new_york_city.csv [3]washington.csv
+
 
 ### Credits
 In this project, a dataset was provided by Udacity which captured data from a bike share system provider for many major cities in the United States to uncover bike share usage trends. 
