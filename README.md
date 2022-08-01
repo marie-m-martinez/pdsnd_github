@@ -7,9 +7,8 @@ Project Title: GitHub repository for bikeshare project.
 
 ### Description
 In this project, I will explore data related to bike share systems for three major cities in 
-the United States: Chicago, New York City, and Washington. Using Python, I will write a code 
-import the data and answer interesting questions about it by computing descriptive statistics. 
-I will also write a script that takes in raw input to create an interactive experience in the 
+the United States: Chicago, New York City, and Washington. You will write code to import the data and answer interesting questions about it by computing descriptive statistics. 
+You will also write a script that takes in raw input to create an interactive experience in the 
 terminal to present these statistics.
 
 
@@ -20,7 +19,7 @@ A terminal application
 
 
 ### Files used
-The three files used were: (1)chicago.csv, (2)new_york_city.csv, & (3)washington.csv.
+To address the questions that need to be answered using Python, you will need to write a Python script. The three files will be used: (1)chicago.csv, (2)new_york_city.csv, & (3)washington.csv.
 
 
 ### The Datasets
@@ -32,6 +31,7 @@ Trip Duration
 Start Station
 End Station
 User Type
+
 The Chicago and New York City files also have the following two columns:
 
 Gender
