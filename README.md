@@ -18,8 +18,6 @@ Python 3
 NumPy and pandas
 A terminal application
 
-### Files used
-The three files used were: (1)chicago.csv, (2)new_york_city.csv, & (3)washington.csv.
 
 
 ### Credits
